@@ -7,6 +7,7 @@ Assorted notes of scholary communications, metadata and processing.
 * [https://scholarlykitchen.sspnet.org/](https://scholarlykitchen.sspnet.org/)
 * [https://github.com/topics/scholarly-communications](https://github.com/topics/scholarly-communications)
 * [https://shubhanshu.com/awesome-scholarly-data-analysis/](https://shubhanshu.com/awesome-scholarly-data-analysis/)
+* [https://scholar.google.com/citations?user=6ojklR4AAAAJ&hl=en](https://scholar.google.com/citations?user=6ojklR4AAAAJ&hl=en)
 
 ## Data analysis
 
