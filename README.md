@@ -20,3 +20,4 @@ Assorted notes of scholary communications, metadata and processing.
 ## Citation Graphs
 
 * [https://locdb.bib.uni-mannheim.de/blog/en/](https://locdb.bib.uni-mannheim.de/blog/en/), [pubs](https://locdb.bib.uni-mannheim.de/blog/en/publications/)
+* [https://figshare.com/articles/dataset/Crossref_Open_Citation_Index_CSV_dataset_of_all_the_citation_data/6741422](https://figshare.com/articles/dataset/Crossref_Open_Citation_Index_CSV_dataset_of_all_the_citation_data/6741422)
