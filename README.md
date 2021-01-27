@@ -22,3 +22,9 @@ Assorted notes of scholary communications, metadata and processing.
 
 * [https://locdb.bib.uni-mannheim.de/blog/en/](https://locdb.bib.uni-mannheim.de/blog/en/), [pubs](https://locdb.bib.uni-mannheim.de/blog/en/publications/)
 * [https://figshare.com/articles/dataset/Crossref_Open_Citation_Index_CSV_dataset_of_all_the_citation_data/6741422](https://figshare.com/articles/dataset/Crossref_Open_Citation_Index_CSV_dataset_of_all_the_citation_data/6741422)
+
+## Assorted Papers
+
+* [http://garfield.library.upenn.edu/papers/barcelona2007a.pdf](http://garfield.library.upenn.edu/papers/barcelona2007a.pdf), The evolution of the Science Citation Index (2007)
+* [http://garfield.library.upenn.edu/papers/casewatsoncrick2003.pdf](http://garfield.library.upenn.edu/papers/casewatsoncrick2003.pdf)
+* "A Conceptual View of Citation Indexing", http://garfield.library.upenn.edu/ci/chapter1.PDF
