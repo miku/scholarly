@@ -28,3 +28,8 @@ Assorted notes of scholary communications, metadata and processing.
 * [http://garfield.library.upenn.edu/papers/barcelona2007a.pdf](http://garfield.library.upenn.edu/papers/barcelona2007a.pdf), The evolution of the Science Citation Index (2007)
 * [http://garfield.library.upenn.edu/papers/casewatsoncrick2003.pdf](http://garfield.library.upenn.edu/papers/casewatsoncrick2003.pdf)
 * "A Conceptual View of Citation Indexing", http://garfield.library.upenn.edu/ci/chapter1.PDF
+
+## Misc
+
+* [zbib.org](https://zbib.org/4ae2d54409544789b4e74c3bf395a5d1)
+* [https://www.bibsonomy.org/](https://www.bibsonomy.org/)
