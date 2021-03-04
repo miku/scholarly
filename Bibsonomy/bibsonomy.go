@@ -15,7 +15,6 @@ import (
 
 var (
 	start    = flag.Int("s", 0, "start")
-	end      = flag.Int("e", 1000, "end")
 	user     = flag.String("u", "", "username")
 	password = flag.String("p", "", "password")
 	sleep    = flag.Duration("d", 1*time.Second, "delay")
@@ -40,10 +39,13 @@ type UserResponse struct {
 
 func main() {
 	flag.Parse()
-	client := pester.New()
+	var (
+		client = pester.New()
+		end    = *start + 1000
+	)
 	for {
 		// curl -XGET --user username:apikey "https://www.bibsonomy.org/api/users?end=2&format=json"
-		link := fmt.Sprintf("https://www.bibsonomy.org/api/users?start=%d&end=%d&format=json", *start, *end)
+		link := fmt.Sprintf("https://www.bibsonomy.org/api/users?start=%d&end=%d&format=json", *start, end)
 		req, err := http.NewRequest("GET", link, nil)
 		if err != nil {
 			log.Fatal(err)
@@ -76,7 +78,7 @@ func main() {
 			time.Sleep(*sleep)
 		}
 		*start = *start + 1000
-		*end = *end + 1000
+		end = end + 1000
 	}
 
 }
